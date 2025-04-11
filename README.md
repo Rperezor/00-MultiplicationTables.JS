@@ -11,7 +11,6 @@ Ejercicios con bucles (`for`) y condicionales (`if`) aplicados a tablas de multi
 - Lógica básica aplicada a la generación de tablas de multiplicar
 
 · Contenido
-
 // Todo en un mismo archivo.js
 
 - Tablas de números pares del 1 al 10
