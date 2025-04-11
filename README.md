@@ -1,7 +1,7 @@
 # 00-MultiplicationTables.JS
 Loop y lógica condicional en JavaScript usando tablas de multiplicar como práctica. 
 
-# EjercicioTablas.JS
+# ejercicioTablas.JS
 Ejercicios con bucles (`for`) y condicionales (`if`) aplicados a tablas de multiplicar en JavaScript.
 
 · ¿Qué se practica en este ejercicio?
